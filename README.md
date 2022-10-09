@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Android and React Native.**
 
-- 💬 Ask me about **Django,full stack development and data science.**
+- 💬 Ask me about **Django, full stack development and data science.**
 
 - 📫 How to reach me **mwakughujacob@gmail.com**
 
