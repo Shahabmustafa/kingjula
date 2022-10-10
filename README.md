@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Android and React Native.**
 
-- 💬 Ask me about **Django, full stack development and data science.**
+- 💬 Ask me about **Django, front-end development and data science.**
 
 - 📫 How to reach me **mwakughujacob@gmail.com**
 
-- ⚡ Fun fact **Yearn to learn for fun to earn.**
+- ⚡ Fun fact **Yearn to learn for fun to earn. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
