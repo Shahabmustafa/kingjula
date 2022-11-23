@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mwakughujacob@gmail.com**
 
-- ⚡ Fun fact **Yearn to learn for fun. **
+- ⚡ Fun fact **Yearn to learn for fun 😅.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
