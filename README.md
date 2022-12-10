@@ -7,13 +7,13 @@
 
 
 
-- 🔭 I’m currently working on **software applications.**
+- 🔭 I’m currently working on **software apps.**
 
-- 🌱 I’m currently learning **Android and React Native.**
+- 🌱 I’m currently learning **Android **
 
 - 💬 Ask me about **Django, front-end development and data science.**
 
-- 📫 How to reach me **mwakughujacob@gmail.com**
+- 📫 How to reach me **julaking13@gmail.com**
 
 - ⚡ Fun fact **Yearn to learn for fun 😅.**
 
