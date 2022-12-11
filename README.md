@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **software apps.**
+- 🔭 I’m currently working on **software applications.**
 
-- 🌱 I’m currently learning **Android **
+- 🌱 I’m currently learning **Android and softare engineering.**
 
 - 💬 Ask me about **Django, front-end development and data science.**
 
